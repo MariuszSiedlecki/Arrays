@@ -4,7 +4,7 @@ public class Task6 {
     public static void main(String[] args) {
         int[] tab1 = {1, 2, 3};
         int[] tab2 = {4, 5, 6};
-        System.out.println("connected two tables: " + Arrays.toString(connectingTwoTables(tab1, tab2)));
+        System.out.println("Connected two tables: " + Arrays.toString(connectingTwoTables(tab1, tab2)));
     }
 
     static int[] connectingTwoTables(int[] a, int[] b) {
