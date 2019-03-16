@@ -16,4 +16,4 @@ Task 7. Zsumuj liczby w tablicy.
 
 Task 8 . Wyświetl max liczbę znajdującą się w tablicy.
 
-Task 9. Odczytaj i wydrukuj listę liczb od tyłu.
+Task 9. Stwórz listę liczb naturalnych a następnie wydruk ją od tyłu.
