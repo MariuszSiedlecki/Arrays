@@ -13,3 +13,5 @@ Task 5. Zwróć środkowy element tablicy.
 Task 6. Połącz dwie tablice w jedną.
 
 Task 7. Zsumuj liczby w tablicy.
+
+Tab 8 . Wyświetl max liczbę znajdującą się w tablicy.
