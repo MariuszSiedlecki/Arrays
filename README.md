@@ -14,6 +14,6 @@ Task 6. Połącz dwie tablice w jedną.
 
 Task 7. Zsumuj liczby w tablicy.
 
-Tab 8 . Wyświetl max liczbę znajdującą się w tablicy.
+Task 8 . Wyświetl max liczbę znajdującą się w tablicy.
 
 Task 9. Odczytaj i wydrukuj listę liczb od tyłu.
